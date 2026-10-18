@@ -6,4 +6,4 @@ to download go into either "WINDOWS" or "MAC" and download the folder, then (whi
 
 ---
 
-big thanks to [maniapub](https://github.com/maniapub) for making [haunt4PC](https://github.com/maniapub/haunt4PC) most of the code is from there
+big thanks to [maniapub](https://github.com/maniapub) for the help with the code
